@@ -1,2 +1,2 @@
 # js-series
-starting js-series again
+starting js-series using github codespace environment
