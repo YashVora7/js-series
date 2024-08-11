@@ -36,3 +36,17 @@ console.log(Boolean(isLoggedIn2));
 console.log(typeof Boolean(isLoggedIn2));
 
 
+// OPERATIONS 
+
+console.log("1" + 2); // 12
+console.log(1 + "2"); // 12
+console.log("1" + "2"); // 12
+console.log("1" + 2 + 3); // 123
+console.log(1 + 2 + "3"); // 33
+console.log(2**4); // 2 the power of 4 = 16
+
+let counter = 1;
+console.log(counter++); // 1
+console.log(counter); // 2
+console.log(++counter); // 3
+console.log(counter); // 3
